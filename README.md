@@ -1,16 +1,49 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=utkarshanand07.utkarshanand07" />
 
-<!--
-**utkarshanand07/utkarshanand07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Utkarsh+Anand!;" />
+</h1>
 
-Here are some ideas to get you started:
+**`Software Developer | Competitive Programmer | ML Enthusiast`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Btech Final Year Student** | **CSE (IOT)** at **NSUT, Delhi**
+- 🌱 **Exploring**: Competitive Programming, ML, AI
+- 💻 **Completed**: MERN Stack Web Development
+- 🎵 **Interests**: Music, Coding, Football
+- 💼 **Skills**: React, Next, Web3, Blockchain, Machine Learning
+
+---
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,react native" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,streamlit,cleark" /><br>
+</div>
+
+<br/>
+
+## 🔭 Projects
+
+### Major Projects
+- **[MarvelWise-Web3.0 Crypto Tranasaction App:](https://github.com/utkarshanand07/MarvelWise-Web3.0-Crypto-Transaction-App)** 
+- **[Facial Recognition Attendance System:](https://github.com/utkarshanand07/Facial-Recognition-Attendance-System)** 
+- **[NewsApp--your-daily-news-app:](https://github.com/Makkohli/NewsApp---your-daily-news-app)** NewsApp is a React.js application that fetches daily news using the NewsAPI. It provides a convenient way to browse top headlines across various categories such as business, entertainment, health, science, sports, technology, and more.
+
+### Minor Projects
+- Various projects using **Next.js**, **MERN**, **ML**.
+---
+
+## 🌟 Achievements
+- **Cleared the SIH Internal hackathon Twice**. Ranked among the **top 20%** with selection in **30** out of **150 teams**.
+
+---
+<div align="center">
+<a href="mailto:utkarshanand7903@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+<a href="https://www.linkedin.com/in/utkarsh-anand-b2277925b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</div>
+
