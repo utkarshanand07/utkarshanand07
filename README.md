@@ -16,7 +16,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,react native" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,streamlit,cleark" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,streamlit,clerk" /><br>
 </div>
 
 <br/>
@@ -24,9 +24,9 @@
 ## 🔭 Projects
 
 ### Major Projects
-- **[MarvelWise-Web3.0 Crypto Tranasaction App:](https://github.com/utkarshanand07/MarvelWise-Web3.0-Crypto-Transaction-App)** 
+- **[MarvelWise-Web3.0 Crypto Transaction App:](https://github.com/utkarshanand07/MarvelWise-Web3.0-Crypto-Transaction-App)** 
 - **[Facial Recognition Attendance System:](https://github.com/utkarshanand07/Facial-Recognition-Attendance-System)** 
-- **[NewsApp--your-daily-news-app:](https://github.com/Makkohli/NewsApp---your-daily-news-app)** NewsApp is a React.js application that fetches daily news using the NewsAPI. It provides a convenient way to browse top headlines across various categories such as business, entertainment, health, science, sports, technology, and more.
+- **[Dall-E Based Image Generation Platform:](https://github.com/utkarshanand07/Dall-E-Based-Image-Generation-Platform)**
 
 ### Minor Projects
 - Various projects using **Next.js**, **MERN**, **ML**.
